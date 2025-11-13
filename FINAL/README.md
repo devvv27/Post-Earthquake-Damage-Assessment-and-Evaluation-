@@ -1,5 +1,3 @@
-<img width="372" height="270" alt="image" src="https://github.com/user-attachments/assets/4aa2cb1c-5480-46dc-96b1-45d23ce9c359" />
-
 | **Model** | **Loss** | **IoU** | **mIoU** | **Dice Coefficient** | **Accuracy** | **Precision** | **Recall** | **F1-Score** |
 |------------|----------|---------|-----------|----------------------|---------------|----------------|-------------|---------------|
 | **Siamese U-Net with CBAM (spatial and channel attention)** | 0.374489 | 0.4464 | 0.6995 | 0.6172 | 0.9543 | 0.6137 | 0.6208 | 0.6172 |
