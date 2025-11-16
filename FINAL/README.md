@@ -17,4 +17,4 @@
 | **Siamese U-Net with local Cross Attention at first 2 levels and global cross attention in next 3 with eca** | 0.390205 | 0.3884 | 0.6636 | 0.5595 | 0.9410 | 0.5024 | 0.6312 | 0.5595 |
 | **Siamese U-Net with SK** | 0.367925 | 0.4646 | 0.7083 | 0.6344 | 0.9539 | 0.5997 | 0.6733 | 0.6344 |
 | **Siamese U-Net with SRM** | 0.367006 | 0.4575 | 0.7033 | 0.6278 | 0.9512 | 0.5736 | 0.6933 | 0.6278 |
-| **Siamese U-Net with Triplet Attention** |  |  |  |  |  |  |  |  |
+| **Siamese U-Net with Triplet Attention** | 0.368759 | 0.4753 | 0.7159 | 0.6443 | 0.9583 | 0.6520 | 0.6368 | 0.6443 |
