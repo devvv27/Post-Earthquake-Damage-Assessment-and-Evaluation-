@@ -7,3 +7,4 @@
 | **Siamese U-Net with Coordinate spatial attention** | 0.372929 | 0.4467 | 0.6996 | 0.6175 | 0.9544 | 0.6146 | 0.6204 | 0.6175 |
 | **Siamese U-Net with Coordinate channel attention** | 0.368599 | 0.4592 | 0.7074 | 0.6293 | 0.9572 | 0.6479 | 0.6118 | 0.6293 |
 | **Siamese U-Net with ECA** | 0.368067 | 0.4693 | 0.7141 | 0.6388 | 0.9604 | 0.6959 | 0.5903 | 0.6388 |
+| **Siamese U-Net with Multi - Scale ECA** | 0.371324 | 0.4696 | 0.7120 | 0.6390 | 0.9562 | 0.6250 | 0.6538 | 0.6390 |
