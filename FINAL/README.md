@@ -9,5 +9,7 @@
 | **Siamese U-Net with ECA** | 0.368067 | 0.4693 | 0.7141 | 0.6388 | 0.9604 | 0.6959 | 0.5903 | 0.6388 |
 | **Siamese U-Net with Multi - Scale ECA** | 0.371324 | 0.4696 | 0.7120 | 0.6390 | 0.9562 | 0.6250 | 0.6538 | 0.6390 |
 | **Siamese U-Net with SE** | 0.367700 | 0.4665 | 0.7116 | 0.6362 | 0.9583 | 0.6594 | 0.6146 | 0.6362 |
-| **Siamese U-Net with local Cross Attention ** |  |  |  |  |  |  |  |  |
-| **Siamese U-Net with local Cross Attention at first 2 levels and global cross attention in next 3 ** |  |  |  |  |  |  |  |  |
+| **Siamese U-Net with local Cross Attention ** | 0.384571 | 0.4278 | 0.6908 | 0.5993 | 0.9553 | 0.6402 | 0.5633 | 0.5993 |
+| **Siamese U-Net with local Cross Attention at first 2 levels and global cross attention in next 3 ** | 0.395333 | 0.3776 | 0.6627 | 0.5482 | 0.9494 | 0.5828 | 0.5175 | 0.5482 |
+| **Siamese U-Net with local Cross Attention at each level with eca ** | 0.390024 | 0.3951 | 0.6747 | 0.5664 | 0.9556 | 0.6742 | 0.4883 | 0.5664 |
+| **Siamese U-Net with local Cross Attention at first 2 levels and global cross attention in next 3 with eca ** |  |  |  |  |  |  |  |  |
