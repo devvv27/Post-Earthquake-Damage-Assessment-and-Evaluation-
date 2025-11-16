@@ -11,5 +11,3 @@
 | **Siamese U-Net with SE** | 0.367700 | 0.4665 | 0.7116 | 0.6362 | 0.9583 | 0.6594 | 0.6146 | 0.6362 |
 | **Siamese U-Net with local Cross Attention ** |  |  |  |  |  |  |  |  |
 | **Siamese U-Net with local Cross Attention at first 2 levels and global cross attention in next 3 ** |  |  |  |  |  |  |  |  |
-| **Siamese U-Net with SE** |  |  |  |  |  |  |  |  |
-| **Siamese U-Net with SE** |  |  |  |  |  |  |  |  |
